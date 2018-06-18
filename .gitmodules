@@ -7,3 +7,6 @@
 [submodule "electron-kt-advance"]
 	path = electron-kt-advance
 	url = https://github.com/compartia/electron-kt-advance.git
+[submodule "kt-ls"]
+	path = kt-ls
+	url = https://github.com/compartia/kt-ls.git
