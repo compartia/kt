@@ -10,3 +10,6 @@
 [submodule "kt-ls"]
 	path = kt-ls
 	url = https://github.com/compartia/kt-ls.git
+[submodule "docker-sonar-kt-advance-1"]
+	path = docker-sonar-kt-advance-1
+	url = https://github.com/compartia/docker-sonar-kt-advance-1
