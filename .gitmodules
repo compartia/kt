@@ -1,15 +1,18 @@
 [submodule "sonar-kt-advance"]
 	path = sonar-kt-advance
-	url = https://github.com/compartia/sonar-kt-advance.git
+	url = https://github.com/kestreltechnology/sonar-kt-advance.git
+	branch = switch-to-2018-XMLs-format
 [submodule "xml-kt-advance-java"]
 	path = xml-kt-advance-java
 	url = https://github.com/compartia/xml-kt-advance-java.git
 [submodule "electron-kt-advance"]
 	path = electron-kt-advance
-	url = https://github.com/compartia/electron-kt-advance.git
+	url = https://github.com/kestreltechnology/electron-kt-advance.git
+	branch = dev-2018
 [submodule "kt-ls"]
 	path = kt-ls
 	url = https://github.com/compartia/kt-ls.git
-[submodule "docker-sonar-kt-advance-1"]
-	path = docker-sonar-kt-advance-1
-	url = https://github.com/compartia/docker-sonar-kt-advance-1
+[submodule "docker-sonar-kt-advance"]
+	path = docker-sonar-kt-advance
+	url = https://github.com/kestreltechnology/docker-sonar-kt-advance.git
+	branch = 2018-dev
