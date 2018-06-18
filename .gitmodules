@@ -1,3 +1,15 @@
 [submodule "sonar-kt-advance"]
 	path = sonar-kt-advance
 	url = https://github.com/compartia/sonar-kt-advance.git
+[submodule "xml-kt-advance-java"]
+	path = xml-kt-advance-java
+	url = https://github.com/compartia/xml-kt-advance-java.git
+[submodule "electron-kt-advance"]
+	path = electron-kt-advance
+	url = https://github.com/compartia/electron-kt-advance.git
+[submodule "kt-ls"]
+	path = kt-ls
+	url = https://github.com/compartia/kt-ls.git
+[submodule "docker-sonar-kt-advance-1"]
+	path = docker-sonar-kt-advance-1
+	url = https://github.com/compartia/docker-sonar-kt-advance-1
