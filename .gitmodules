@@ -1,0 +1,3 @@
+[submodule "sonar-kt-advance"]
+	path = sonar-kt-advance
+	url = https://github.com/compartia/sonar-kt-advance.git
