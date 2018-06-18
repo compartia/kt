@@ -4,7 +4,7 @@
 	branch = switch-to-2018-XMLs-format
 [submodule "xml-kt-advance-java"]
 	path = xml-kt-advance-java
-	url = https://github.com/kestreltechnology/xml-kt-advance-java.git
+	url = https://github.com/mrbkt/xml-kt-advance-java.git
 [submodule "electron-kt-advance"]
 	path = electron-kt-advance
 	url = https://github.com/kestreltechnology/electron-kt-advance.git
